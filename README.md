@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name]
+# Yooooo, I'm King
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+i like pink
 
 ## About me
 - Studying: [your programme], UiTM
