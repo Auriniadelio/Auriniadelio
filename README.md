@@ -3,16 +3,16 @@
 i like pink
 
 ## About me
-- Studying: [your programme], UiTM
-- Currently learning: [topics]
-- My FYP area: [your area, or "still deciding"]
+- Studying: Computer Science, UiTM
+- Currently learning: CSC649 Special Topics
+- My FYP area: A Narrative-Driven Technical Support Simulation Game Using Finite State Machine for Cybersecurity Literacy
 
 ## Skills and tools
-[List what you know. Example: Python, Git, SQL]
+Python, C, C++, Blender, Java
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+-  A Narrative-Driven Technical Support Simulation Game Using Finite State Machine for Cybersecurity Literacy
+-  https://github.com/Auriniadelio/IHelpdeskYou
 
 ## Contact
-- LinkedIn: [your profile link]
-- Email: [a professional email address]
+- Email: auriniadelio@gmail.com
